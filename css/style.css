@@ -2008,19 +2008,21 @@ p {
 }
 
 .ganti-font p {
-    font-family: 'Handlee', cursive;
+    /* font-family: 'Handlee', cursive; */
     font-size: 20px;
-    color: #f5f5f5;
+    color: #c4c4c4;
     letter-spacing: 1.75%;
     line-height:32px;
+    font-weight: 400;
 }
 
 .ganti-fontt p {
-    font-family: 'Handlee', cursive;
+    /* font-family: 'Handlee', cursive; */
     font-size: 20px;
     color: #323232;
     letter-spacing: 1.75%;
     line-height:32px;
+    font-weight: 400;
 }
 
 .card {
